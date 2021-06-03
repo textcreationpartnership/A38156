@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two ordinances of the Lords and Commons assembled in Parliament the first for the appointing the house of Sr Richard Gurnie, late lord major of the city of London, scituate in the Old Jury for the use of the trustees and contractors &amp;c. for the sale of the bishops-lands; the second for the alteration and explanation of the oath formerly appointed to be taken by the surveyors of the bishops-lands and for the better enabling of the trustees for bishops lands named in the former ordinances to discharge the trust in them reposed.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38156</idno><idno type="EEBO-CITATION">11132403</idno>
+  <idno type="VID">46360</idno>
+  <idno type="EEBO-PROQUEST">2248506079</idno>
+  
+            <idno type="STC">Wing E2417</idno>
+            <idno type="STC">ESTC R29419</idno>
+            <idno type="OCLC">11132403</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1423:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two ordinances of the Lords and Commons assembled in Parliament the first for the appointing the house of Sr Richard Gurnie, late lord major of the city of London, scituate in the Old Jury for the use of the trustees and contractors &amp;c. for the sale of the bishops-lands; the second for the alteration and explanation of the oath formerly appointed to be taken by the surveyors of the bishops-lands and for the better enabling of the trustees for bishops lands named in the former ordinances to discharge the trust in them reposed.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Cotes for John Bellamy,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ordinances dated: 28 Novembris, 1646 and 24 Decembris, 1646 respectively.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gurney, Richard, --  Sir, 1577-1647.</term>
+               <term type="topical_term">Church lands --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46360:1"/>
+            <pb facs="tcp:46360:1"/>
+            <p>TWO ORDINANCES OF THE <hi>LORDS</hi> and <hi>COMMONS</hi> Assembled in PARLIAMENT:</p>
+            <p>The First, For the appointing the House of Sr <hi>Richard Gurnie,</hi> late Lord Major of the City of <hi>London,</hi> sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tuate in the <hi>Old Jury,</hi> for the use of the Trustees, and Contractors, <hi>&amp;c.</hi> for the sale of the <hi>BISHOPS-LANDS.</hi>
+            </p>
+            <p>The second For the Alteration and Explanation of the Oath formerly appointed to be taken by the Surveyors of the Bishops Lands.</p>
+            <p>And for the better enabling of the Trustees for Bishops Lands, named in the former Ordinances, to discharge the Trust in them reposed.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. Cotes,</hi> for <hi>John Bellamy,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:46360:2"/>
+            <pb n="1" facs="tcp:46360:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi, 28 Novembris, 1646.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Ee it Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament Assembled, that the Messuage or Mansion house, of or belon<g ref="char:EOLhyphen"/>ging unto Sr. <hi>Richrad Gurnie</hi> Knight, late Lord Major of the City of <hi>London,</hi> a Delinquent, Scituate in the Old Jury <hi>London,</hi> shall be applyed and made use of by the Trustees, and Contractors in the late Ordinance for appointing the sale of the Bishops Lands, for their sitting in, and for their better accommodation in the discharge of the trust thereby reposed in them respectively; and likewise for the safe keeping and laying up of all Records, Evidences, Writings, Books, and other things appointed to be layed up and kept by the Register in the said Ordinance mentioned, and for such of the Officers, and other uses, as the said Trustees, or the major part of them shall appoint.</p>
+            <closer>
+               <signed>Jo. Browne Cler. Parliamentorum.</signed>
+               <signed>H. Elsynge. Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="2" facs="tcp:46360:3"/>
+            <opener>
+               <dateline>
+                  <date>The 28. of December, 1646. At the Committee of Trustees for Bishops Lands.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by severall Ordinances of Par<g ref="char:EOLhyphen"/>liament made concerning the sale of Bishops Lands, it is appointed, That the Treasury lately kept at <hi>Goldsmiths-Hall, London:</hi> And all Charters, Deeds, and Writings touching the Lands of the late Bi<g ref="char:EOLhyphen"/>shops, should bee kept in such place in the said Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> as the Trustees therein mentioned, or the major part of them should from time to time thinke fit. And whereas by another Ordinance of Parliament, dated the Eight and twentyeth day of <hi>November</hi> last, the Messuage, or Mansion house of Sir <hi>Richard Gurnie</hi> Knight, scituate in the <hi>Old Iury, London,</hi> was appointed to be applyed and made use of by the Trustees and Contractors for the sale of Bishops lands, and for keeping of the Records and Writings which are to be kept by the Register, and for such of the Officers, and other uses, as the said Trustees, or the major part of them shall ap<g ref="char:EOLhyphen"/>point. It is thereupon ordered by the said Trustees, That the said Treasury, Records, Deeds, and Evi<g ref="char:EOLhyphen"/>dences shall bee from henceforth kept in the said House in the <hi>Old Jury, London.</hi>
+            </p>
+            <closer>
+               <signed>John Rolfe <hi>Clerk to the Trustees.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="3" facs="tcp:46360:3"/>
+            <head>An Additionall ORDINANCE OF THE LORDS and COMMONS Assembled in PARLIAMENT; For the alteration and Explanation of the Oath formerly appointed to be taken by the Surveyors of the Bishops Lands, &amp;c.</head>
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 24 Decembris, 1646.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Ee it hereby Ordained by the Lords and Commons in this present Parliament assembled, and by the Au<g ref="char:EOLhyphen"/>thority of the same, That in stead of the Oath for<g ref="char:EOLhyphen"/>merly appointed to be taken by Surveyors of the Bishops Lands, this Oath following shall be taken by them respectively, <hi>In haec verba:</hi>
+            </p>
+            <p>
+               <hi>I. A. B.</hi> Doe sweare that I will faith<g ref="char:EOLhyphen"/>fully and truly, according to my best skill
+<pb n="4" facs="tcp:46360:4"/> and knowledge, execute the place of a Sur<g ref="char:EOLhyphen"/>veyor, according to the purport of two severall Ordinances; The one entituled, <hi>An Ordinance of Parliament for the aboli<g ref="char:EOLhyphen"/>shing of Archbishops and Bishops within the Kingdome of</hi> England, <hi>and Dominion of</hi> Wales, <hi>and for setling of their Lands and Possessions upon Trustees for the use of the Common-wealth:</hi> The other entituled, <hi>An Ordinance of the Lords and Commons assembled in Parliament, for appointing the sale of the Bishops Lands for the use of the Common-wealth;</hi> and according to the Instructions thereunto added, I shall use my best endea<g ref="char:EOLhyphen"/>vour and skill to discover the Estate there<g ref="char:EOLhyphen"/>in mentioned, and every part thereof which shall bee given mee in charge, and to finde out the true values and improve<g ref="char:EOLhyphen"/>ments thereof; and thereof shall make true Surveys, according to my best skill and cunning, and the same from time to time deliver in Writing close sealed up, unto <hi>Henry Elsynge</hi> Esquire, the Register in that behalfe appointed, together with a true Copy or Duplicate thereof, likewise close sealed up unto the said Trustees, or any
+<pb n="5" facs="tcp:46360:4"/> two of them, according to the true intent and meaning of the said recited Ordinan<g ref="char:EOLhyphen"/>ces: And this I shall justly and faithfully execute, without any gift or reward, di<g ref="char:EOLhyphen"/>rectly or indirectly, from any person or persons whatsoever, except such allowan<g ref="char:EOLhyphen"/>ces as the said Trustees, or the major part of them shall thinke fit to make unto mee for my paines and charges in the executing of the said Place or Office.</p>
+            <p>And be it further Ordained by the Au<g ref="char:EOLhyphen"/>thority aforesaid, that the said Trustees, or the major part of them shall have pow<g ref="char:EOLhyphen"/>er, and are hereby authorized from time to time, to call to accompt any Surveyor or Surveyors, or other Officers by them named and appointed. And if they shall finde them, or any of them defective or un<g ref="char:EOLhyphen"/>faithfull in performance of the Duties or Trust in them reposed, then to remove them, or any of them which they shall so finde defective or unfaithfull, and to nomi<g ref="char:EOLhyphen"/>nate and appoint others in their steads. Neverthelesse it is hereby Ordained and Declared, that the Copies or Duplicates of all Surveys, to be returned to the said Tru<g ref="char:EOLhyphen"/>stees,
+<pb n="6" facs="tcp:46360:5"/> as aforesaid, so soone as assurances shall be made to the purchasers of the Lands, or other things therein contained, shal forthwith be delivered over by the said Trustees or the major part of them, unto the Register aforesaid, to be bundled up and safely kept by him in like manner, as the o<g ref="char:EOLhyphen"/>ther part of the said Surveys returned to him by the said Surveyors is appointed to be kept. And that the said Trustees, or any imployed by them, do not make entry of, or at any time make or deliver out any Copies of the said Duplicates for the use and benefit of any private or particular per<g ref="char:EOLunhyphen"/>son, or otherwise to the prejudice of the said Register.</p>
+            <p>And be it lastly Ordained that this pre<g ref="char:EOLhyphen"/>sent Ordinance shall be printed and pub<g ref="char:EOLhyphen"/>lished in all Counties and other Cities, Townes Corporate, Parishes, Townes Hamblets, and other places where the said Trustees, or the major part of them shall think fit: And that the care of the true prin<g ref="char:EOLhyphen"/>ting thereof is hereby referred to the said Trustees, or the major part of them.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Joh. Brown Cleric. Parliamentorum.</item>
+                     <item>H. Elsynge Cler. Parl. Dom. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:46360:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
